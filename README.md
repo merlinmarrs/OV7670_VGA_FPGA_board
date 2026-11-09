@@ -8,9 +8,7 @@ An iCE40HX4K Lattice FPGA development board which takes OV7670 camera-in at 30 f
 
 The board can work stand-alone with a USB-C or it can be plugged-in to an Arduino to more easily change registers on the OV7670.
 
-<img width="485" height="853" alt="final" src="https://github.com/user-attachments/assets/c325be32-a654-4a89-8120-e6c513aaf891" />
-
-
+<img width="5566" height="10564" alt="PCB" src="https://github.com/user-attachments/assets/aab1cee6-25b7-4682-983b-79850d27d98c" />
 
 # Acknowledgements : 
 
