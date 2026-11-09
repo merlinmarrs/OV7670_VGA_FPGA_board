@@ -1,6 +1,6 @@
 # OV7670_VGA_FPGA_board
 
-<img width="3648" height="2432" alt="IMG_4012_bw_back" src="https://github.com/user-attachments/assets/69baf144-6846-4697-9838-3ab7d08c13e5" />
+<img width="1024" height="768" alt="IMG_20260519_152841-1024x768" src="https://github.com/user-attachments/assets/3cb73903-ce9d-419e-b1af-37d8a0986758" />
 
 An iCE40HX4K Lattice FPGA development board which takes OV7670 camera-in at 30 frames per second and outputs 640x480 VGA @ 60Hz at a resolution of 320x120 in black and white.
 
