@@ -4,11 +4,11 @@
 
 An iCE40HX4K Lattice FPGA development board which takes OV7670 camera-in at 30 frames per second and outputs 640x480 VGA @ 60Hz at a resolution of 320x120 in black and white.
 
-<img width="485" height="853" alt="final" src="https://github.com/user-attachments/assets/c325be32-a654-4a89-8120-e6c513aaf891" />
-
 <img width="896" height="534" alt="eye_zoom" src="https://github.com/user-attachments/assets/1ce871f8-bef8-4f2f-bc0d-1b2015622e2b" />
 
 The board can work stand-alone with a USB-C or it can be plugged-in to an Arduino to more easily change registers on the OV7670.
+
+<img width="485" height="853" alt="final" src="https://github.com/user-attachments/assets/c325be32-a654-4a89-8120-e6c513aaf891" />
 
 
 
