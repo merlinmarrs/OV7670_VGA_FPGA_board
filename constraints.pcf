@@ -1,0 +1,36 @@
+set_io clk 49
+set_io led 19
+
+
+//OV7670
+set_io  OV_xclk 39
+
+set_io  p_clock 20
+set_io  OV_vsync 37
+set_io  OV_href 38
+set_io  p_data[0] 34
+set_io  p_data[1] 33
+set_io  p_data[2] 32
+set_io  p_data[3] 31
+set_io  p_data[4] 29
+set_io  p_data[5] 28
+set_io  p_data[6] 26
+set_io  p_data[7] 25
+
+//buttons
+set_io key[0] 48
+set_io key[1] 129
+set_io key[2] 128
+
+//VGA out from FPGA
+set_io h_sync 76
+set_io v_sync 90
+set_io r_out[0] 7
+set_io r_out[1] 8
+set_io r_out[2] 1
+set_io g_out[0] 11
+set_io g_out[1] 12
+set_io g_out[2] 3
+set_io b_out[0] 9
+set_io b_out[1] 10
+set_io b_out[2] 2
